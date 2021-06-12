@@ -16,19 +16,16 @@ body {
 
 .space {
   margin: 0 auto;
-  position: relative;
   padding-top: 100px;
   width: 1000px;
 }
 
 .phones {
-  position: relative;
-  float: left;
+   float: left;
   width: 20%;
 }
 
 .space-text {
-  position: relative;
   float: right;
   width: 65%;
   padding: 25px;
